@@ -1,0 +1,48 @@
+body{
+    background-color: #fffbf4;
+}
+.cv{
+    font-family: monospace;;
+    font-style: oblique;
+    font-size:1.5rem;
+    color:#000000;
+}
+.name_c{
+    font-weight:bold;
+    font-size:1.7rem;
+    font-family: cursive;
+    text-align: center;
+    font-style: italic;
+    color: #132e4c;
+}
+img{
+    border-radius: 50%;
+    margin-bottom: 12px;
+    margin-right: 30px;
+    float: left;
+
+}
+.datos{
+        font-family:Century Gothic, CenturyGothic, AppleGothic, sans-serif ; 
+}
+fieldset{
+    margin-bottom: 12px;
+
+}
+legend{
+    background-color:#fffa98;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: Consolas, monaco, monospace;
+}
+.skills{
+    font-size:1.2rem;
+    font-family:Baskerville, Baskerville Old Face, Garamond, Times New Roman, serif ;
+
+
+}
+span{
+    font-weight: bold;
+    font-family:Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+}
